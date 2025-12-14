@@ -1,0 +1,9 @@
+streamlit>=1.39
+openai>=1.42
+pandas
+pathlib
+streamlit_tile
+python-dotenv
+pyyaml
+boto3
+openpyxl
